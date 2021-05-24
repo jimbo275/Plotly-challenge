@@ -9,3 +9,7 @@ I used the Javascript libraries d3 and Plotly for this challenge
 **Data**
 The data used in this challenge was gathered from:
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
+
+**Dashboard**
+The final dashboard can be viewed here:
+https://jimbo275.github.io/Plotly-challenge/
