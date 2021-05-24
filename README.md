@@ -19,3 +19,6 @@ The dashboard allows the user to select numbered test subjects using a dropdown 
 
 The final dashboard can be viewed here:
 https://jimbo275.github.io/Plotly-challenge/
+
+![image](https://user-images.githubusercontent.com/17952875/119302402-ea3c7600-bc18-11eb-9188-d815bf91fa0f.png)
+
